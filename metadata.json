@@ -1,0 +1,6 @@
+{
+  "name": "IH Creative Studio",
+  "description": "Enterprise digital agency platform founded by Ihtisham Hussain Raja featuring public showcase, AI project scope generator, executive metrics, kanban pipeline, and client experience portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
